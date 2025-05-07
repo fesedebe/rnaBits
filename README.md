@@ -1,1 +1,1 @@
-This repo hosts code & workflows for our longitudinal study investigating tumor recurrence in high-grade serous ovarian carcinomas (HGSOC) across various data modalities.
+A collection of R functions for analyzing bulk and single-cell RNA-seq datasets.
